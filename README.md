@@ -1,2 +1,5 @@
 # rabbitmq
-四种模式收发消息
+
+spring-boot集成rabbitMQ
+
+演示四种模式收发消息Demo
